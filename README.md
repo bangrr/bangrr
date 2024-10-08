@@ -2,6 +2,7 @@
 
 <div>
   <a href="https://solved.ac/qudfbf2"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qudfbf2"/></a>
+  <img src="http://mazandi.herokuapp.com/api?handle=qudfbf2&theme=warm"/>
 </div>
 
 <!--
